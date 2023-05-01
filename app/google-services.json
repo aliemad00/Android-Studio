@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682692023444",
+    "project_id": "mobtech-f7184",
+    "storage_bucket": "mobtech-f7184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682692023444:android:1e8a842413ef5984de9081",
+        "android_client_info": {
+          "package_name": "com.example.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682692023444-ak8ifd9vl9bmu0mq7l6q0d4aecabbbob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR6r1YZnJCANtUsOdNsawpK-SD_H7qPpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682692023444-ak8ifd9vl9bmu0mq7l6q0d4aecabbbob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
